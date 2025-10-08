@@ -2,6 +2,8 @@
 
 Welcome to ScanSend - Your simple, private document scanner for iPhone.
 
+**🔒 Privacy First**: We don't collect ANY of your data. Everything stays on your device. [Read our Privacy Policy](https://github.com/valivalivali/ScanSend/blob/main/PRIVACY_POLICY.md)
+
 ## 🚀 Quick Start Guide
 
 ### First Time Setup
@@ -142,6 +144,9 @@ Solution:
 
 ## 🔒 Privacy & Security
 
+### Our Privacy Commitment
+**We don't collect ANY of your data.** Period. See our full [Privacy Policy](https://github.com/yourusername/scansend-legal/blob/main/PRIVACY_POLICY.md) for details.
+
 ### What We Collect
 - **Nothing!** ScanSend doesn't collect any user data
 
@@ -151,12 +156,24 @@ Solution:
 - ❌ No selling user data
 - ❌ No ads or third-party SDKs
 - ❌ No background data collection
+- ❌ No account creation required
+- ❌ No network requests to our servers (we don't have any!)
 
 ### Your Data Stays Yours
 - All processing happens on your device
-- Documents are stored locally
+- Documents are stored locally in the app's sandboxed storage
+- Protected by iOS encryption and your device passcode
 - You control where documents are shared
-- Delete documents anytime
+- Delete documents anytime - they're gone forever
+- Delete the app = delete all data
+
+### Camera & Photo Permissions
+- **Camera**: Only accessed when you tap scan
+- **Photos**: Only accessed when you import/save
+- **Never** accessed in the background
+- **Never** uploaded anywhere
+
+For complete details, read our [Privacy Policy](https://github.com/yourusername/scansend-legal/blob/main/PRIVACY_POLICY.md)
 
 ## 📧 Contact Support
 
@@ -180,8 +197,9 @@ For partnerships or business questions: **valivalivali128@gmail.com**
 
 ## 🔗 Useful Links
 
-- **Privacy Policy**: [View Privacy Policy](https://github.com/yourusername/scansend-privacy)
-- **Terms of Service**: [View Terms](https://github.com/yourusername/scansend-terms)
+- **Privacy Policy**: [View Privacy Policy](https://github.com/yourusername/scansend-legal/blob/main/PRIVACY_POLICY.md)
+- **Terms of Service**: [View Terms](https://github.com/yourusername/scansend-legal/blob/main/TERMS_OF_SERVICE.md)
+- **Contact**: valivalivali128@gmail.com
 
 ## 📱 App Store
 
